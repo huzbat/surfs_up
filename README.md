@@ -1,5 +1,5 @@
 # surfs_up
-Objective: Write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
+Purpose: Write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 Analyzing weather data in jupyter notebook while making an app 
 
 # Overview of analysis
